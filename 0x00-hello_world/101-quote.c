@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <unistd.hd>
-
 /**
  * main - c progam that prints a line into the second line for standard error
  *
