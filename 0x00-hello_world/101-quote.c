@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <unistd.hd>
+#include <unistd.h>
 /**
  * main - c progam that prints a line into the second line for standard error
  * Return: 1 (correct)
