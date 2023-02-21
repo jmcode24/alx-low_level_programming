@@ -7,14 +7,14 @@
 #include <main.h>
 
 /**
- * main - program that prints _putchar
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	char *sh = "ALX";
+	char *sh = "main";
 
 	while (*sh)
 	{
