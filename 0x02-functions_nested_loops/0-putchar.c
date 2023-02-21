@@ -4,7 +4,7 @@
  * The program should return 0
  */
 
-#include <stdio.h>
+#include <main.h>
 
 /**
  * main - program that prints _putchar
